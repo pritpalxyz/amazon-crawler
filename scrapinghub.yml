@@ -1,0 +1,5 @@
+projects:
+  default: 69837
+  prod: 69837
+
+requirements_file: req.txt
